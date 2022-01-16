@@ -10,7 +10,7 @@ The purpose of the election audit analysis is to assist Tom, in his reporting to
 - There were 369,711 votes cast in this congressional election.
 - See the breakdown of the number of votes and the percentage of total votes for each county in the precinct:
 
-![image](https://user-images.githubusercontent.com/93399107/149678391-b0dc4044-f348-4de5-a2fd-f9309c71e527.png)
+<img width="227" alt="Capture" src="https://user-images.githubusercontent.com/93399107/149679973-5aaed5b6-7aa4-45e3-8afd-bc52add72600.PNG">
 
 - Denver had the largest number of votes with 306,055 votes or 82.8% of all votes casted. 
 
