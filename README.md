@@ -3,7 +3,7 @@ Python Module 3
 
 **Overview of Election Audit**
 
-The purpose of the election audit analysis is to assist Tom, in his reporting to the Colorado Board of Elections of the congrestional district results
+The purpose of the election audit analysis is to assist Tom, in his reporting to the Colorado Board of Elections of the congrestional district election results.
 
 **Election-Audit Results**
 
